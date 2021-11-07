@@ -1,0 +1,5 @@
+hello world
+python
+file
+new project
+python or debug console
